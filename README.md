@@ -1,5 +1,3 @@
-![UMG logo](https://logotipoz.com/wp-content/uploads/2022/11/mariano-galves-sin-fondo-1.webp "Logo de UMG")
----
 # Proyecto 1: Sensor Ultrasonico
 ### Universidad Mariano Gálvez de Guatemala
 ### Ingeniería en Sistemas
