@@ -10,4 +10,5 @@
 | Proyecto1SensorUltrasonico.py | Programa principal    |
 | pico_i2c_lcd.py               | Librería para LCD I2C |
 | lcd_api.py                    | API para LCD I2C      |
-
+---
+[Demostración en el simulador Wokwi](https://wokwi.com/projects/392645680432808961 "Demostración en el simulador Wokwi")
